@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "e71-simple-widget",
+    "version": "0.0.1",
+    "description": "e71-simple-widget description",
+    "type": "bundle"
+}
