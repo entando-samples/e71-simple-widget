@@ -3,7 +3,7 @@
     "microfrontends": [],
     "svc": [],
     "name": "e71-simple-widget",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "e71-simple-widget description",
     "type": "bundle"
 }

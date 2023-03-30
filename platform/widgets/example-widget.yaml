@@ -1,6 +1,6 @@
-code: example-widget
+code: e71-example-widget
 titles:
-  en: Example Widget
-  it: Widget d'esempio
+  en: E71 Example Widget
+  it: E71 Widget d'esempio
 group: free
-customUi: <h2>Hello World from the Example Widget</h2>
+customUi: <h2>Hello World from the E71 Example Widget</h2>
